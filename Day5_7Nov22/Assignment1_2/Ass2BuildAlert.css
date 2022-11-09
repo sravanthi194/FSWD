@@ -1,0 +1,16 @@
+
+.blue-margin{
+    border-left:4px solid green;
+    background-color: #00d9ff1a;
+     margin:1em 0;
+     padding:1em;
+     size: 10vh;
+    
+}
+
+.red-margin{
+    border-left: 4px solid red;
+    background-color: rgba(255, 0, 98, 0.1); 
+    padding:1em;
+    margin:1em,0;   /*by default of view port width =16px*/
+}
