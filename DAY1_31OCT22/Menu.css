@@ -1,0 +1,15 @@
+p,
+h3 {
+  //*text-align: left;  not needed
+ line-height: 0px;   used in html */
+
+}
+.cost {
+  background-color: orange;
+  float: right;
+  color: white;
+  height: 70px;
+  width: 35px;
+  right: 50%;
+  /*text-align:left; */
+}
