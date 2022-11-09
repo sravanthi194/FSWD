@@ -1,0 +1,75 @@
+
+ *{ /*  background-color: rgba(0,0,255,0.1); */
+   box-sizing: border-box;
+}
+
+
+.colorBlue1{
+    background-color: rgb(222, 209, 228);
+   
+
+}
+/* header h1{
+     color:#ff00ff;
+    text-shadow: 2px 2px  5px  #0000ff; 
+    color: red;
+    text-shadow: 2px 2px  10px  #ff00ff;
+} */
+#border1{
+      color: purple;
+      text-shadow: 3px 3px  10px navy;
+       padding: 5px;
+       font-family:Verdana;
+       font-size:  1.5em;
+     
+
+
+}
+h2{
+    color:#ff00ff;
+    text-shadow: 2px 2px  5px  #0000ff;
+    /* color: rgb(181, 22, 230);
+    text-shadow: 2px 2px  5px  #ff00ff; */
+    /* text-emphasis-position:  filled double-circle blue;  */
+}
+.colorblue2{
+    color:#ff00ff;
+    /* background-color: rgb(222, 209, 229) */
+  
+}
+.colorblue3{
+    color:#ff00ff;
+    /* width : 30%; */
+ 
+    background-color:rgb(222, 209, 229);   /* hue =color (0 to 359) , saturation same as opacity alpha  ,lightness 0% black 100% white  */
+}
+.section1color{
+    color: purple;
+    background-color: rgb(222, 209, 228);      /* #0000ff28;  */
+}
+.imgborder2{
+    border:2px solid lightslategray;
+    width: 
+}
+img{
+    border:3px solid purple;
+}
+.footerColor{
+    border: 2px solid darkblue;
+    background-color: rgba(00, 00, 255, 0.25);
+    color:purple;
+   }
+
+   ul li h3,.resetcolor,.submitcolor, h2{
+    color: red;
+    text-shadow: 2px 2px  10px  #ff00ff;
+    /* color:#ff00ff;
+    text-shadow: 2px 2px  5px  #0000ff; */
+    text-decoration: underline;
+    text-decoration-color: purple;
+
+   }
+   .resetcolor,.submitcolor{
+    background-color: violet;
+   }
+
