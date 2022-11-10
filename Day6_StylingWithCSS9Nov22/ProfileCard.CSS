@@ -1,0 +1,43 @@
+*{
+    padding:0;
+
+    box-sizing:border-box;
+}
+
+.image1{
+    
+    width:250px;
+    height:500px;
+    margin-inline : auto;
+    border:1px solid lightgray;
+    box-shadow:2px 1px 2px 2px lightgray;
+}      /*  inline element doesn't  work with width and margin top and bottom  but it img elem acts like inline-block it works with width*/
+
+.strong,b{
+    display:block;   /*since text center won't work with inline element strong*/
+}
+p{
+    font-weight: 100;
+}
+p,b, .strong {
+     text-align:center;
+}
+.button{
+    background-color:black;
+     color:white;
+   
+    /*margin:20%;
+    padding:5%; */
+
+}
+.icons{
+    text-align: center;
+    padding-top:20px;
+}
+.btn{
+   background-color:black;
+   color:white;
+   width:100%;
+   margin-top:15px;
+   cursor:pointer;
+}
