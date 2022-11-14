@@ -1,0 +1,51 @@
+/* *{
+    padding:0;
+    margin:0;
+} */
+
+
+.container{
+    display:flex;
+    flex-direction:row;
+    border-color: red;
+    justify-content: center;
+    gap:10px;
+    border-style: 2px 2px 2px lightgray;
+    background-color: white; 
+    
+}
+
+
+.card1{
+    border-color: red;
+    background-color: white; 
+    color:black; 
+   flex-basis:20%;
+   box-shadow: 2px 2px 2px lightgray;
+
+}
+.profession{
+    font-weight:lighter;
+   
+}
+
+.button{
+    
+    display:flex;
+    justify-content:center;
+    align-items:center;
+     border:none;
+     width:90%;
+     margin:10px;
+     
+}
+.card2{
+     
+    flex-basis:20%;
+    box-shadow: 2px 2px 2px lightgray;    
+}
+
+.card3{
+    box-shadow: 2px 2px 2px lightgray;    
+    flex-basis:20%;
+}
